@@ -3,6 +3,8 @@
 ## Directories
 
     _authors :    contain MD files
+    .
+    ..autors.md
     _data :       contain YML files
     .
     ..navigation.yml :     contain a mapping table for links and names
